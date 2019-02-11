@@ -12,6 +12,7 @@ ul {
     padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
     margin-top: 0;
     padding-top: 0;
-    margin-bottom: 2px;
-    padding-bottom: 2px;
+    margin-bottom: 1px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
