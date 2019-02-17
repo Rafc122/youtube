@@ -1,8 +1,12 @@
 #navigation-menu {
   max-width: 230px;
   width: 100%;
+  position: fixed;
+  margin-top: 50px;
+  overflow-y: scroll;
   background: rgb(187, 183, 183);
   overflow-wrap: break-word;
+  height: 100%;
 }
 .title-name {
   padding-left: 20px;
